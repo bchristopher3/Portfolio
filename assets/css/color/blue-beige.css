@@ -72,7 +72,3 @@ a:hover, a:focus,
 .te-tertiary:before {
 	background-color: #3aa8db; 
 }
-
-#messenger-toggle{
-	display: none;
-}
